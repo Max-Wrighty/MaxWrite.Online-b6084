@@ -37,7 +37,7 @@ Hopefully it'll help someone out there!
 
 ## Restly: 0 → 100
 
-Documenting every step of building and shipping Restly.ie. 
+Documenting every step of building and shipping Restly.ie
 From first commit to first 10 customers and beyond.
 
 → **[[Weekly Restly Updates\|Weekly Restly Updates]]** 
@@ -47,7 +47,7 @@ From first commit to first 10 customers and beyond.
 ## MaxWrite
 
 Publicly sharing my [[Daily Notes\|Daily Notes]], [[Thoughts\|Thoughts]], and [[Writing\|Writing]].
-### Self-Development
+## Self-Development
 
 - [[]]
 - [[]]
