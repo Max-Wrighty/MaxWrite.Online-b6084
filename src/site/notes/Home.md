@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-02-27T23:39:59.473+00:00"}
 ---
 
 
@@ -15,12 +15,12 @@ Hopefully it'll help someone out there!
 
 | Focus         | What it is                                                                                    |
 | ------------- | --------------------------------------------------------------------------------------------- |
-| **Learning**  | I'm currently going through a [[9-Month Study Intensive\|9-Month Study Intensive]] to qualify for [[UCD SEAM+\|UCD SEAM+]]        |
 | **Restly.ie** | POS Business. Building the software from the ground up. Currently focused on the [[MVP Demo\|MVP Demo]] |
 | **MaxWrite**  | This website you're on. Public journal + build log + accountability host                      |
+| **Learning**  | I'm currently going through a [[9-Month Study Intensive\|9-Month Study Intensive]]                                     |
 | **Day job**   | Unrelated field. Full time.                                                                   |
 
-**Goal:** College student, Reslty.ie paying bills, constantly learning & sharing; becoming an M.D.
+**Goal:** Reslty.ie big enough to [[pay bills\|pay bills]], constantly learning & sharing; becoming an M.D.
 
 ---
 
